@@ -14,7 +14,7 @@ namespace PersitenciaWAsa01
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Epa Chamo qlq este es el taller seccion B");
 			
 			// TODO: Implement Functionality Here
 			
